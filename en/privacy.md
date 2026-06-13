@@ -4,9 +4,9 @@ mo.Today ("the App") values your privacy and provides this Privacy Policy in acc
 
 This Privacy Policy is effective as of June 2026.
 
-## 1. Information We Collect
+## 1. Information the App Handles
 
-The App may collect the following information.
+The App handles the following information on your device. All of it is stored only on your device and in your own iCloud, and is not collected or transmitted to any external server.
 
 - **Calendar** — When you grant permission, the App reads events from your iOS Calendar solely to display them within the App. This data is not transmitted to any external server.
 - **Location** — Used solely to retrieve today's weather. Your coordinates are not stored separately.
@@ -16,7 +16,7 @@ The App may collect the following information.
 
 ## 2. How We Use Information
 
-The information we collect is used only to provide the App's features and for no other purpose.
+The information the App handles is used only to provide the App's features and for no other purpose.
 
 - Calendar and location information are used for display purposes only.
 - User-entered data is used so that you can manage your own schedule within the App.
