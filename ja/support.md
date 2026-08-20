@@ -49,6 +49,6 @@ moplanetapps@gmail.com
 
 ## 情報
 
-- バージョン：1.1.4
+- バージョン：1.1.5
 - 開発：moPlanet
 - プライバシーポリシー：https://motoday.moplanet.net/ja/privacy

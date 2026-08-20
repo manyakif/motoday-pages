@@ -49,6 +49,6 @@ We typically reply within 1 to 3 business days.
 
 ## Information
 
-- Version: 1.1.4
+- Version: 1.1.5
 - Developer: moPlanet
 - Privacy Policy: https://motoday.moplanet.net/en/privacy
