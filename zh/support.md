@@ -49,6 +49,6 @@ moplanetapps@gmail.com
 
 ## 信息
 
-- 版本：1.1.5
+- 版本：1.1.6
 - 开发：moPlanet
 - 隐私政策：https://motoday.moplanet.net/zh/privacy

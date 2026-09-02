@@ -49,6 +49,6 @@ moplanetapps@gmail.com
 
 ## 정보
 
-- 버전: 1.1.5
+- 버전: 1.1.6
 - 개발: moPlanet
 - 개인정보 처리방침: https://motoday.moplanet.net/privacy
